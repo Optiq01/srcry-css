@@ -1,0 +1,3 @@
+:root{
+    --bsp: calc(var(--whScaleDwn) / 11);
+}
